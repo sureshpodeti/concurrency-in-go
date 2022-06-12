@@ -23,3 +23,5 @@ It leads to problems like race conditions
 
       fmt.Println(balance)
     }
+
+![Tux, the Linux mascot](/1.png)
