@@ -25,3 +25,6 @@ It leads to problems like race conditions
     }
 
 ![Tux, the Linux mascot](/1.png)
+
+# How to avoid data races?
+using **channels** or **locks**
